@@ -6,9 +6,9 @@
 
 <h1>Prerequisites</h1>
 <p>Following steps needed for the setup</p>
-<h2>
+
 `git clone https://github.com/phondani0/howtotech.git`
-<h2>
-<h2>`npm install`</h2>
+
+`npm install`
 <h2>npm start</h2>
 This project serving on 127.0.0.1:8000
